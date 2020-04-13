@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Mhee",
+        "description": "",
+        "icon": {
+            "item": "minecraft:turtle_egg"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "mheeminecraft:mheeminecraft",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
